@@ -252,5 +252,8 @@ UI languages: English · Bahasa Indonesia (toggle in the toolbar).
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](LICENSE)**.
+
+> 🚫 **Non-Commercial**: Proyek ini bebas digunakan, dipelajari, dan dimodifikasi untuk tujuan edukasi & sains. **Dilarang keras dijual atau diperjualbelikan untuk keuntungan komersial.**
+
 
