@@ -1,5 +1,7 @@
 # Physica Sandbox
 
+🌐 **Live Demo**: [https://physica-sandbox-hazel.vercel.app/](https://physica-sandbox-hazel.vercel.app/)
+
 An interactive 3D research and teaching sandbox for two classical problems:
 
 1. **Hydrodynamics** — efflux from a vessel through an orifice (Torricelli's law), with a

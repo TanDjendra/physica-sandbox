@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Interactive 3D Math & Physics research sandbox: Torricelli hydrodynamics + calculus optimization",
+  "homepage": "https://physica-sandbox-hazel.vercel.app/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
