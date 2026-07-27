@@ -15,6 +15,18 @@ simulation rather than a static formula sheet.
 
 ---
 
+## Screenshots
+
+| Hydrodynamics Simulation | Calculus Optimization |
+| :---: | :---: |
+| ![Hydrodynamics Simulation](docs/screenshots/hydrodynamics-overview.png) | ![Calculus Optimization](docs/screenshots/calculus-optimization.png) |
+
+| Analytics & Real-Time Telemetry |
+| :---: |
+| ![Hydrodynamics Analytics](docs/screenshots/hydrodynamics-analytics.png) |
+
+---
+
 ## Quick start
 
 ```bash
