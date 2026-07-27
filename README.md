@@ -262,10 +262,25 @@ UI languages: English · Bahasa Indonesia (toggle in the toolbar).
 
 ---
 
-## License
+## License & Commercial Licensing
 
-This project is licensed under the **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](LICENSE)**.
+### Public & Educational Use
+This project is licensed under the **[PolyForm NonCommercial License 1.0.0](LICENSE)** (or CC BY-NC-SA 4.0).
 
-> 🚫 **Non-Commercial**: Proyek ini bebas digunakan, dipelajari, dan dimodifikasi untuk tujuan edukasi & sains. **Dilarang keras dijual atau diperjualbelikan untuk keuntungan komersial.**
+* **Free for Everyone:** Proyek ini bebas digunakan, dipelajari, dimodifikasi, dan dikembangkan untuk tujuan pendidikan, riset, dan non-komersial.
+* **Attribution Required:** Hak cipta tetap milik pembuat asli. **Dilarang keras mengklaim atau mengakui proyek ini sebagai karya sendiri.** Setiap turunan/modifikasi wajib mencantumkan kredit ke pembuat asli (`TanDjendra`).
+* **Non-Commercial:** Dilarang memperjualbelikan kode sumber, hasil build, maupun layanan berbasis proyek ini tanpa izin tertulis.
 
+---
+
+### Commercial Licensing (Untuk Perusahaan / Bisnis)
+Jika Anda adalah perusahaan, institusi komersial, atau pengembang yang ingin:
+- Menggunakan proyek ini untuk produk berbayar / komersial,
+- Menjual lisensi turunan, atau
+- Mengintegrasikan proyek ini ke dalam sistem tertutup (*proprietary/closed-source*),
+
+Anda **wajib membeli Lisensi Komersial Khusus (*Commercial License*)**. 
+
+Silakan hubungi pembuat proyek untuk diskusi Lisensi Komersial:
+- **GitHub:** [@TanDjendra](https://github.com/TanDjendra)
 
